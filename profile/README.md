@@ -2,6 +2,12 @@
 
 A Toolkit of single purpose libraries that can be composed together to build Generative AI solutions
 
+### Features
+
+* Minimal Individual Libraries - Each library is a single purpose library with minimal to no external dependencies
+* Toolkit - Each library is designed to be used independently or together for a complete GenAI stack
+* Node and TypeScript - The entire tookit is designed to run on NodeJS because I am a fan of Node and TS
+
 ## Contribution guidelines
 
 ## Useful resources
